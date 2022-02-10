@@ -1,5 +1,8 @@
 # `loomy`
 
+[![Crates.io](https://img.shields.io/crates/v/loomy.svg)](https://crates.io/crates/loomy)
+[![Documentation](https://docs.rs/loomy/badge.svg)][docs]
+
 A shim crate to easily test code with `loom`.
 
 ```rust

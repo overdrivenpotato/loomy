@@ -1,8 +1,9 @@
 [package]
 name = "loomy"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A shim to easily run loom tests"
+repository = "https://github.com/overdrivenpotato/loomy"
 license-file = "LICENSE-MIT"
 
 [features]
