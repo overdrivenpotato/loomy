@@ -1,0 +1,12 @@
+[package]
+name = "loomy"
+version = "0.1.0"
+edition = "2021"
+description = "A shim to easily run loom tests"
+license-file = "LICENSE-MIT"
+
+[features]
+enable = ["loom"]
+
+[dependencies]
+loom = { version = "0.5.4", optional = true }
